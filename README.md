@@ -99,6 +99,13 @@ Ce projet met à disposition des outils modernes pour comprendre et anticiper la
 
 ---
 
+## Prérequis
+
+Avant de commencer, assurez-vous d'avoir <b>Node.js</b> installé sur votre machine (version recommandée : <b>18.x</b> ou supérieure).<br/>
+Vous pouvez télécharger Node.js ici : https://nodejs.org/
+
+---
+
 ## Comment lancer le projet
 
 1. **Cloner le dépôt**

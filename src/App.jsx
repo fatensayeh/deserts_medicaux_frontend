@@ -17,7 +17,7 @@ function App() {
         {/* Placeholders for other pages */}
         <Route path="/statistiques" element={<Statistiques />} />
         <Route path="/zones-risque" element={<ZonesRisque />} />
-        <Route path="/propos" element={<div className='min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-500 via-cyan-400 to-blue-900'><div className='text-white text-2xl'>À propos (à venir)</div></div>} />
+        <Route path="/propos" element={<Landing />} />
         <Route path="/apl" element={<APL />} />
         <Route path="/map" element={<Map />} />
       </Routes>
