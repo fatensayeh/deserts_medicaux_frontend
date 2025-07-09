@@ -13,6 +13,7 @@ function TopBar() {
           <Link to="/zones-risque" className="text-blue-100 hover:text-cyan-300 transition-colors font-medium">Zones à risque (démographie médicale)</Link>
           <Link to="/apl" className="text-blue-100 hover:text-cyan-300 transition-colors font-medium">Tableau APL</Link>
           <Link to="/propos" className="text-blue-100 hover:text-cyan-300 transition-colors font-medium">À propos</Link>
+          <Link to="/guide-soignants" className="text-blue-100 hover:text-cyan-300 transition-colors font-medium">Guide pratique soignants</Link>
         </div>
       </div>
     </nav>
